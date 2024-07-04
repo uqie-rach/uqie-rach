@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uqie</h1>
 <h3 align="center">A passionate Web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Nest, React**
+- 🌱 I’m currently learning **Express, React**
 
 - 👨‍💻 All of my projects are available at [https://achmad-furqon-portfolio-site.vercel.app/](https://achmad-furqon-portfolio-site.vercel.app/)
 
