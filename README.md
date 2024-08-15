@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uqie</h1>
-<h3 align="center">A passionate Web developer from Indonesia</h3>
+<h3 align="center">A passionate Web developer student from Indonesia</h3>
 
-- 🌱 I’m currently learning **Express, React**
+- 🌱 I’m currently learning **Javascript Software Development**
 
-- 👨‍💻 All of my projects are available at [https://achmad-furqon-portfolio-site.vercel.app/](https://achmad-furqon-portfolio-site.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Site](https://achmad-furqon-portfolio-site.vercel.app/)
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React, Express, Astro**
 
 - 📫 How to reach me **achmadfurqonrachmadie@gmail.com**
 
