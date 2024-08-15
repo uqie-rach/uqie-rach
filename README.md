@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript Software Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Site](https://achmad-furqon-portfolio-site.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Site](https://afr-cv-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Express, Astro**
 
